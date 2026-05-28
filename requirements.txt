@@ -1,2 +1,1 @@
-python-telegram-bot==22.0
-genanki
+pip install requests pdfplumber
